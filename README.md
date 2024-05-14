@@ -9,3 +9,7 @@
 如果您已经是万方工艺的一员，请联系`@NiuBoss123`，获取如何编辑网页的相关内容
 
 如果您是万方工艺的管理层，请联系`@NiuBoss123`加入 GitHub 团队
+
+## 问题反馈
+
+请前往`[discussions](https://github.com/KazuyoshiCraft/home-website/discussions)`
