@@ -12,4 +12,4 @@
 
 ## 问题反馈
 
-请前往`[discussions](https://github.com/KazuyoshiCraft/home-website/discussions)`
+请前往[`discussions`](https://github.com/KazuyoshiCraft/home-website/discussions)
