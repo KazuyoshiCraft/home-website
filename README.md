@@ -1,5 +1,7 @@
-# KazuyoshiCraft Home Website
-万方工艺官方网站 构建后代码
+# KazuyoshiCraft V2 Home Website
+万方工艺第二代官网（即本站）
+
+- 采用[`vitepress`](https://vitepress.dev/)作为驱动
 
 ## 参与编辑
 您需要先成为万方工艺的一员
